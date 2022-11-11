@@ -147,12 +147,6 @@ input:focus {
     background-color: #b7a7f6;
 }
 
-@media (max-width: 786px) {
-    .intro,
-    .main-content {
-        width: 100%;
-    }
-}
 
 /* =================
     Media queries 
